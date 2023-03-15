@@ -9,7 +9,7 @@ public class gugudan {
 		Scanner input = new Scanner(System.in); 
 		number = input.nextInt();
 		
-		while (i <= 9) {
+		while (i <= 200) {
 		System.out.println(number + "*" + i + "=" + number * i); i++;
 		}
 	}
