@@ -26,7 +26,7 @@ class Town{
 	} 
 	
 }
-	class Protagonist{
+class Protagonist{
 	static String name;
 	static int age; static int HP; static int MP; static String job; static String[] skills;
 	static {
